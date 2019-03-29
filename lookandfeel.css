@@ -1,0 +1,43 @@
+h1{
+    color: red;
+}
+
+.wrapper{
+    border: 1px solid black;
+    flex: 2;
+}
+
+.wrapper-Placeholder{
+    border: 1px;
+    flex: 3;
+}
+
+.outerWrapper{
+    display: flex;
+    flex-direction: row;
+}
+
+.imageWrapper{
+    text-align: center;
+}
+
+.imageClass{
+    margin: 5px auto;
+    padding: 10px;
+    height: 50px;
+    width: 50px;
+}
+
+.console{
+    margin: 5px;
+    text-align: center;
+}
+
+.spinButton{
+    width: 100px;
+}
+
+.paytableButton{
+    width: 100px;
+}
+
