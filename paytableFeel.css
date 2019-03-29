@@ -1,12 +1,13 @@
 h1{
-    color: red;
+    color: black;
 }
-
+/* Setting the object left and underneath each other */
 img{
     float: left;
     clear: left;
 }
 
+/* Setting the object left and underneath each other */
 span{
     float: left;
     clear: left;
